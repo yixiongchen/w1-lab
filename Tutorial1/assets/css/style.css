@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-color: #d0e4fe;
+}
+
+a:link{
+    color:green; background-color:transparent; text-decoration:none
+    }
+a:visited{
+    color:pink; background-color:transparent; text-decoration:none
+    }
+a:hover{
+    color:red; background-color:transparent; text-decoration:underline
+    }
+a:active{
+    color:yellow; background-color:transparent; text-decoration:underline
+    }
+
+h1 {
+    color: orange;
+    text-align: center;
+}
+
+h2 {
+    color: orange;
+    text-align: center;
+}
+
+h3 {
+    color: orange;
+    text-align: center;
+}
+
+p {
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>My First CSS Example</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
